@@ -3,4 +3,5 @@ Terveisiä Githubista
 Tämä on sitä tarinaa
 Tämä on sitä tarinaa...ja muokattu stashia varten
 
-Terveisiä mun koneelta
+Muokattu paikallisesti
+
